@@ -74,6 +74,8 @@ List of `awesome DGGS` categories mentioned below
 - https://github.com/dlr-eoc/ukis-h3cellstore
 - https://github.com/manaakiwhenua/raster2dggs
 - https://github.com/manaakiwhenua/vector2dggs
+- https://github.com/manaakiwhenua/rHP-Pandas
+- https://github.com/DahnJ/H3-Pandas
 - https://github.com/allixender/dg_exec_basic
 - https://github.com/danlooo/dggrid-julia
 - https://github.com/danlooo/DGGS.jl
